@@ -1,0 +1,14 @@
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\bin\Debug\WebMonitor.exe.config
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\bin\Debug\WebMonitor.exe
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\bin\Debug\WebMonitor.pdb
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\bin\Debug\EntityFramework.dll
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\bin\Debug\EntityFramework.xml
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\obj\Debug\WebMonitor.csprojAssemblyReference.cache
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\obj\Debug\WebMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\obj\Debug\WebMonitor.csproj.CopyComplete
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\obj\Debug\WebMonitor.exe
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\obj\Debug\WebMonitor.pdb
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joel\source\repos\WebMonitor\WebMonitor\bin\Debug\Newtonsoft.Json.xml

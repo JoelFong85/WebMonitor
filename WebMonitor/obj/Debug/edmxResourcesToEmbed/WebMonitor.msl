@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WebMonitorModelStoreContainer" CdmEntityContainer="WebMonitorEntities">
+    <EntitySetMapping Name="PageLists">
+      <EntityTypeMapping TypeName="WebMonitorModel.PageList">
+        <MappingFragment StoreEntitySet="PageList">
+          <ScalarProperty Name="Monitor_Id" ColumnName="Monitor_Id" />
+          <ScalarProperty Name="Monitor_Name" ColumnName="Monitor_Name" />
+          <ScalarProperty Name="Url" ColumnName="Url" />
+          <ScalarProperty Name="Monitor_Group" ColumnName="Monitor_Group" />
+          <ScalarProperty Name="Downtime" ColumnName="Downtime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

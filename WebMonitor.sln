@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMonitor", "WebMonitor\WebMonitor.csproj", "{EFE16B45-3C4A-4E93-A53E-CCC23554BA5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFE16B45-3C4A-4E93-A53E-CCC23554BA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE16B45-3C4A-4E93-A53E-CCC23554BA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE16B45-3C4A-4E93-A53E-CCC23554BA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE16B45-3C4A-4E93-A53E-CCC23554BA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84580D21-70E5-43C2-B8AF-2CBDB00A0C3E}
+	EndGlobalSection
+EndGlobal
